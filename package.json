@@ -1,0 +1,15 @@
+{
+  "name": "node-blog-app",
+  "version": "1.0.0",
+  "description": "The architecture for nodejs backend application. It is build on top of expressjs using typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jakhongir Bakhodirov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

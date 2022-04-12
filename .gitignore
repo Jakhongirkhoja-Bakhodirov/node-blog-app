@@ -1,2 +1,5 @@
 #ignore third party packages
 /node_modules
+.env
+/build/**/*
+.vscode
